@@ -2,7 +2,7 @@
 package ex05_2_exercise;
 
 public class ShoppingCart {
-
+ 
     public static void main(String[] args) {
          // local variables
         String custName = "Mary Smith";
